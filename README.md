@@ -16,6 +16,7 @@ Avec un Front et un Back déja fait et une BDD fait en cours préalablement, fai
 Cette API doit gérer les connexion, inscription et avoir un CRUD.
 
 Pour lancer le site il faut : 
+ - cloner le repo dans le dossier www de Wamp ( C:\wamp64\www ) 
  - faire un node index.js
  - lancer WampServer 
  - mettre comme url : http://127.0.0.1:5001/
