@@ -1,0 +1,15 @@
+{
+    "name": "projet-php-IsmaelHK1/www",
+    "require": {
+        "michelf/php-markdown": "^1.9"
+    },
+    "autoload": {
+            "\\projet-php-IsmaelHK1\\Www\\": "src/"
+    },
+    "authors": [
+        {
+            "name": "projet-php-IsmaelHK1",
+            "email": "jordangrilly@gmail.com"
+        }
+    ]
+}
